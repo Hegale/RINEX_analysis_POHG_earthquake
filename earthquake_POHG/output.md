@@ -4,4 +4,12 @@
   2년간의 데이터의 시계열은 아래와 같다.
   
 1. 군위  
+![군위](https://user-images.githubusercontent.com/92227496/139859655-6dd94b71-bbcf-42f8-a18d-b0226852ac54.jpg)
+  
+2. 보현
+![보현](https://user-images.githubusercontent.com/92227496/139862457-2fa5b0bd-ef12-4af0-9e73-8c5292b4149e.jpg)
+  
+3. 부산
+![부산](https://user-images.githubusercontent.com/92227496/139862470-937faea9-f333-44eb-92b7-784bda5ba939.jpg)
 
+4. 호미
